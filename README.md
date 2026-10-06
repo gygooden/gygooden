@@ -1,6 +1,6 @@
 ### Hello
 
-#### My name is Grayson, a Master's student @ Carnegie Mellon (Silicon Valley Campus) completing a Master's in Computer Science. I love all things biotech, fintech, & machine learning!
+#### My name is Grayson, a Master's student @ Carnegie Mellon (Silicon Valley Campus) completing a degree in Softwre Management. I love all things biotech, fintech, & machine learning!
 
 - 🔬 I recently completed an honors thesis @ Wake Forest University in the AI & Computational Biology Lab, focusing on designing  interpretable insights for Alzheimer's disease. Take a look here: [(https://chenm19.github.io/projects/ad-explorer/)]
 - 🔭 I was most recently a SWE Intern @ Vestmark, designing financial technologies for financial advisors!

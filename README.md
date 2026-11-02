@@ -1,10 +1,10 @@
-### Hello
+### Hello, I'm Grayson 👋
 
-#### My name is Grayson, a Master's student @ Carnegie Mellon (Silicon Valley Campus) completing a degree in Software Management. I love all things biotech, fintech, & machine learning!
+#### Master's student @ Carnegie Mellon (Silicon Valley) studying Software Management with a focus on AI. My background is in engineering, but these days I'm most interested in the product side: figuring out what's worth building and why. Focus in biotech, fintech, and ML.
 
-- 🔬 I recently completed an honors thesis @ Wake Forest University in the AI & Computational Biology Lab, focusing on designing  interpretable insights for Alzheimer's disease. Take a look here: [(https://chenm19.github.io/projects/ad-explorer/)]
-- 🔭 I was most recently a SWE Intern @ Vestmark, designing financial technologies for financial advisors!
-- 🌱 My most recent personal project is a full-stack web app that assists users in tracking their daily habits and estimating their carbon impact. It uses fuzzy logic to recognize activities, calculates CO₂ savings (or emissions), and offers motivating, personalized eco tips! Built with React, FastAPI, and PostgreSQL: [(https://github.com/gygooden/GreenPrint)]
-- 👯 I’m looking to collaborate on creative real-world projects!
-- ⚡ Fun fact: I am currently training to compete in powerlifting!
-- 💬 Personal contact: [gygooden@gmail.com]. Feel free to reach out!
+- 🧫 **Now:** Supporting [Bullseye Bio](https://bullseyebio.ai/), a startup building vascularized human tissue models for drug research. I'm working on their grant process and their website.
+- 🧠 **Then:** Honors thesis in Wake Forest's AI & Computational Biology Lab, making Alzheimer's disease models interpretable for researchers → [AD Explorer](https://chenm19.github.io/projects/ad-explorer/)
+- 💸 **Before that:** SWE Intern @ Vestmark, building tools for financial advisors.
+- 🛠️ Always open to collaborating on real-world projects.
+- 🏋️ Currently training for a powerlifting meet.
+- 💬 [gygooden@gmail.com](mailto:gygooden@gmail.com)
